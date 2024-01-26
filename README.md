@@ -8,3 +8,4 @@ https://dribbble.com/shots/10690867-Blog-App-Design
 </p>
 
 ### LinkedIn Post:
+https://www.linkedin.com/feed/update/urn:li:activity:7156735134799405056/
